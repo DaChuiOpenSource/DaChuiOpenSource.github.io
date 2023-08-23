@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[85],{406:function(t,n,s){"use strict";s.r(n);var e=s(12),o=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("发生背景\n表象分析\n原因分析\n解决措施\n避免措施\n事件反思")])])}),[],!1,null,null,null);n.default=o.exports}}]);
